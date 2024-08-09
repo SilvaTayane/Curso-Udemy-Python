@@ -7,4 +7,4 @@ with open(CAMINHO_ARQUIVO, 'r') as arquivo:
     
     for pessoa in pessoas:
         p1 = Pessoa(**pessoa[0])
-        r
+        
